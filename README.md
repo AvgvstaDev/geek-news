@@ -16,7 +16,7 @@ Neste momento vamos desenvolver um portal de notícias.
 O projeto consistirá em uma página inicial que permitirá aos usuários criar e compartilhar notícias geek incríveis.  
 
 * A Mim Minhas Notícias
-Neste momento temos pesquisar notícias, imagens, vídeos e conteúdos que vão compor o nosso portal. 
+<br> Neste momento temos pesquisar notícias, imagens, vídeos e conteúdos que vão compor o nosso portal. 
 Você pode buscar referências em todos os portais de notícias pela web ou escrever as suas próprias. Ferramentas geradoras de texto, imagens e vídeos estão permitidas ;)
 
 * Bora pro protótipo?
@@ -27,16 +27,15 @@ Você pode buscar referências em todos os portais de notícias pela web ou escr
   Estrutura de Pastas Épica: Monte sua base operacional com uma estrutura de pastas inspirada em vários universos geeks. Use esta estrutura para armazenar seus arquivos e criar uma jornada organizada:
 
 🌌 portal-multiverso/
-  ├── index.html
-  ├── noticia1.html
-  ├── noticia2.html
-  ├── img/
-  │    ├── heroi1.jpg
-  │    ├── heroi2.jpg
-  │    └── ...
-  └── css/
-       ├── estilos.css
-       └── ...
-Detalhes Cósmicos
+<br>  ├── index.html
+<br>  ├── noticia1.html
+<br>  ├── noticia2.html
+<br>  ├── img/
+<br>  │    ├── heroi1.jpg
+<br>  │    ├── heroi2.jpg
+<br>  │    └── ...
+<br>  └── css/
+<br>       ├── estilos.css
+<br>       └── ...
 
 Que a Força Geek esteja com você! 🚀🎮📚  
