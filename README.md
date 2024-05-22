@@ -16,7 +16,7 @@ Neste momento vamos desenvolver um portal de notícias.
 O projeto consistirá em uma página inicial que permitirá aos usuários criar e compartilhar notícias geek incríveis.  
 
 * A Mim Minhas Notícias
-<br> Neste momento temos pesquisar notícias, imagens, vídeos e conteúdos que vão compor o nosso portal. 
+  * Neste momento temos pesquisar notícias, imagens, vídeos e conteúdos que vão compor o nosso portal. 
 Você pode buscar referências em todos os portais de notícias pela web ou escrever as suas próprias. Ferramentas geradoras de texto, imagens e vídeos estão permitidas ;)
 
 * Bora pro protótipo?
